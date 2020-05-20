@@ -1,0 +1,40 @@
+body {
+	background-color: #E7DB2D;
+}
+h1 {
+	text-align: center;
+	font-size: 50px;
+	color: black;
+}
+form {
+	margin: 20px auto;
+	width: 320px;
+	color: black;
+}
+input {
+	padding: 10px;
+	font-size: inherit;
+}
+input[type="text"] {
+	display: block;
+	margin-bottom: 25px;
+	width: 100%;
+	border: 2px solid black;
+
+}
+input[type="Send message"] {
+	width: 100px;
+	height: 20px;
+	border: none;
+	background: grey;
+	color: black;
+
+}
+input[type="Preview"] {
+	width: 100px;
+	height: 20px;
+	border: none;
+	background: grey;
+	color: black;
+}
+
